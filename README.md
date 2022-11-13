@@ -27,7 +27,7 @@ Step 6 --> Click on Developer Mode on the right top corner of the extensions pag
 <br>
 <img src="https://raw.githubusercontent.com/suhasumukh/AI-Youtube-Ad-Closer/main/Steps%20to%20install/step6.png">
 <br>
-Step 7 --> Click pn Load unpacked and upload the folder you have saved all the source file.
+Step 7 --> Click on Load unpacked and upload the folder you have saved all the source file.
 <img src="https://raw.githubusercontent.com/suhasumukh/AI-Youtube-Ad-Closer/main/Steps%20to%20install/step7.png">
 <br>
 Step 8 --> You have succesfully installed the AI Youtube ad closer extension.
