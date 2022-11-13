@@ -1,0 +1,13 @@
+
+{
+    "name": "AI Youtube Ad closer",
+    "version": "1.0",
+    "description": "The AI Will Automatically know the ad and then closes it and also close the ad banner",
+    "content_scripts": [
+      {
+        "matches": ["https://*.youtube.com/*"],
+        "js": ["index.js"]
+      }
+    ],   
+    "manifest_version": 2
+  }
