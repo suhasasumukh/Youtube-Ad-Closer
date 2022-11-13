@@ -11,7 +11,7 @@ Step 2 --> Dpwnload the ZIP file.
 <br>
 <img src="https://raw.githubusercontent.com/suhasumukh/AI-Youtube-Ad-Closer/main/Steps%20to%20install/step2.png">
 <br>
-Step 3 --> Go to file explorer and extract the zip file & copy all the file and make your own new folder and paste the file in it (Note:- All copied file must be pasted into the newly made folders only.
+Step 3 --> Go to file explorer and extract the zip file & copy all the file and make your own new folder and paste the file in it (Note:- All copied file must be pasted into the newly made folders only.)
 <br>
 <img src="https://raw.githubusercontent.com/suhasumukh/AI-Youtube-Ad-Closer/main/Steps%20to%20install/step3.png">
 <br>
