@@ -34,3 +34,6 @@ Step 7 --> Click on Load unpacked and upload the folder you have saved all the s
 Step 8 --> You have succesfully installed the AI Youtube ad closer extension.
 <br>
 Enjoy ad free experience with this AI extension. 🤖🤖
+<br>
+<hr>
+<p>If you like my work please follow me on <a href="https://twitter.com/suhasasumukh">twitter</a> to get more updates on AI ML and SEO Strategy</p>
