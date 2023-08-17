@@ -36,4 +36,4 @@ Step 8 --> You have succesfully installed the AI Youtube ad closer extension.
 Enjoy ad free experience with this AI extension. 🤖🤖
 <br>
 <hr>
-<p>If you like my work please follow me on <a href="https://twitter.com/suhasasumukh">twitter</a> to get more updates on AI ML and SEO Strategy</p>
+<p>If you like my work please follow me on <a href="https://twitter.com/suhasasumukh">twitter</a> to get more daily insights on AI/ML Fontend and Technology</p>
