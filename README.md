@@ -2,7 +2,23 @@
 The ext will automatically know when the ad pops and then it skips it and also closes the ad banner on Youtube. Install This extension on chrome.
 Enjoy Ad Free Youtube with this extension!!!
 
-# How to Install the extension step by step procedure:-
+###Content-
+- [Install](#)
+- [Git](#)
+
+# Git
+
+1)
+```
+git clone https://github.com/suhasasumukh/AI-Rubiks-Cube-Solver
+```
+2)
+
+```
+cd ./AI-Rubiks-Cube-Solver
+```
+
+# How to Install the extension step by step method:
 <br>
 Step 1 --> Click on <>Code on github.
 <br>
