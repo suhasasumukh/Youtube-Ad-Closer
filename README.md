@@ -56,4 +56,6 @@ Step 8 --> You have succesfully installed the Youtube ad closer extension.
 Enjoy ad free experience with this extension. ⚡⚡
 <br>
 <hr>
-<p>If you like my work please follow me on <a href="https://twitter.com/suhasasumukh">twitter</a> to get more insights on AI/ML/Crypto & things I learnt/researched.</p>
+<p>If you like my work please follow me on <a href="https://twitter.com/suhasasumukh">twitter</a></p>
+
+<p>The complete steps to download this extension on twitter <a href="https://twitter.com/suhasasumukh/status/1716721589914574862"></a></p>
