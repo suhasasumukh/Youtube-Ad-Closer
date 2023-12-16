@@ -58,4 +58,4 @@ Enjoy ad free experience with this extension. ⚡⚡
 <hr>
 <p>If you like my work please follow me on <a href="https://twitter.com/suhasasumukh">twitter</a></p>
 
-<p>The complete steps to download this extension on twitter <a href="https://twitter.com/suhasasumukh/status/1716721589914574862"></a></p>
+<p>The complete steps to download this extension on twitter <a href="https://twitter.com/suhasasumukh/status/1716721589914574862">here</a></p>
