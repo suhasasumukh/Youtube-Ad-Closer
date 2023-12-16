@@ -16,7 +16,7 @@ Enjoy Ad Free Youtube with this extension!!!
 git clone https://github.com/suhasasumukh/AI-Rubiks-Cube-Solver
 ```
 
-2) 
+2) change directory
 
 ```
 cd ./AI-Rubiks-Cube-Solver
