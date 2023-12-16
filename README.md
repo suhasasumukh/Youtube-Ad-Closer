@@ -10,10 +10,12 @@ Enjoy Ad Free Youtube with this extension!!!
   
 # Git
 
-1) Clone the repo
+1) Clone this repo
+   
 ```
 git clone https://github.com/suhasasumukh/AI-Rubiks-Cube-Solver
 ```
+
 2) 
 
 ```
